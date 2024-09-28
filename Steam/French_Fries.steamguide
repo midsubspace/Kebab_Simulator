@@ -1,0 +1,26 @@
+French Fries
+
+Ingredients:
+    Potato x1
+    Ketchup Pack x1
+    Mayonnaise Pack x1
+    Sunflower Oil 0.15 lt
+Steps:
+    Slice
+        Potato x1(Gives Potato Slices)
+
+    Slice
+        Potato Slices x1(Gives French Fries)
+
+    Add to a Deep Fryer
+        Sunflower Oil 0.15 lt
+
+    Fry Using Deep Fryer
+        French Fries x1
+
+    Transfer to Plate
+        French Fries x1
+        Mayonnaise x1
+        Ketchup x1
+
+    Serve Hot
