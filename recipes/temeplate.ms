@@ -1,4 +1,0 @@
-foods=["Baklava","Beet_Kebab","Borsch_Soup","Cheesecake","Chicken_Breast","Chicken_Legs","Chicken_Salad","Chicken_Skewers","Chicken_Wings","Churros","Croissant","Cupcake","Doner","Eggplant_Kebab","Falafel","French_Fries","Fried_Chicken_Wings","Fruit_Salad","Grilled_Beef","Hamburger","Heart_Cookies","Hotdog","Jelly","Kebab_Wrap","Lahmacun","Lamp_Soup","Lemon_Skewers","Liver_Skewers","Meatballs","Mushroom_Kebab","Mushroom_Soup","Onion_Soup","Pepperoni_Burger","Pepperoni_Grill","Pretzel","Raspberry_Pie","Ravioli","Roast_Chicken","Sausage_Grill","Schnitzel","Simple_Kebab","Strawberry_Cake","Sugarpare","Tofu_Kebab","Tomato_Kebab","Tomato_Soup","Yogurt_Soup","Zurek_Soup"]
-for food in foods
-	file.writeLines food,"Ingredients:"+char(10)+char(10)+"Steps:"
-end for
