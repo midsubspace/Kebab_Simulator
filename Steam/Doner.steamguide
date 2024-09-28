@@ -1,11 +1,13 @@
 Doner
 
 Ingredients:
-    Ribeye x1
-    Potato x1
-    Sunflower Oil 0.15lt
-    Ketchup Pack x1
-    Mayonnaise Pack x1
+    [list]
+    [*]Ribeye x1
+    [*]Potato x1
+    [*]Sunflower Oil 0.15lt
+    [*]Ketchup Pack x1
+    [*]Mayonnaise Pack x1
+    [/list]
 Steps:
     DONER:
         Slice

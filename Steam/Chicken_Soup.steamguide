@@ -1,10 +1,12 @@
 Chicken Soup
 
 Ingredients:
-    Water 1.20 lt
-    Chicken Broth 0.15 lt
-    Chicken Breast x2
-    Lemon x1
+    [list]
+    [*]Water 1.20 lt
+    [*]Chicken Broth 0.15 lt
+    [*]Chicken Breast x2
+    [*]Lemon x1
+    [/list]
 Steps:
     Slice
         Chicken Breast x2

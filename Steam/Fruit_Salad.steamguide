@@ -1,10 +1,12 @@
 Fruit Salad
 
 Ingredients:
-    Star Fruit x1
-    Strawberry x1
-    Pineapple x1
-    Orange x1
+    [list]
+    [*]Star Fruit x1
+    [*]Strawberry x1
+    [*]Pineapple x1
+    [*]Orange x1
+    [/list]
 Steps:
     Slice
         Star Fruit x1(Gives Star Fruit Slices)
