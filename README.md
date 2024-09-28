@@ -18,6 +18,7 @@ Key Features:
     Become the top restaurant in town: Feed your customers and grow your reputation!
 
 For more details and community support, join the Official Kebab Chefs! Discord.
+https://discord.gg/KCJ3XHwfeC
 
 This repository serves as a storage space for all the recipes featured in Kebab Chefs!. Here you will find:
 
