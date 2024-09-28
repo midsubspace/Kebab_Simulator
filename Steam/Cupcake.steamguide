@@ -10,30 +10,36 @@ Ingredients:
     [*]Egg x3
     [/list]
 Steps:
+        [b][u]Cupcake:[/u]
+        [olist]
+        [*]Add to a Mixing Bowl and Mix with a Stand Mixer
+        [list]
+            [*]Chocolate x1(Place Chocolate Pack on table and E to open)
+            [*]Sugar 150g
+            [*]Flour 400g
+            [*]Egg x3
+            [/list]
+        [*]Extract from Mixing Bowl
+            [list][*]Cupcake[/list]
+        [/olist]
+
+    [b][u]Mixture:[/u]
     [olist]
-    CUPCAKE:
-        [*]Add to a Mixing Bowl and Mix with a Stand Mixer
-            Chocolate x1(Place Chocolate Pack on table and E to open)
-            Sugar 150g
-            Flour 400g
-            Egg x3
-
-    [*]Extract from Mixing Bowl
-        Cupcake
-    MIXTURE:
         [*]Slice
-            Star Fruit x1(Gives Start Fruit Slices)
+            [list][*]Star Fruit x1(Gives Start Fruit Slices)[/list]
 
         [*]Add to a Mixing Bowl and Mix with a Stand Mixer
-            Butter 200g
-            Start Fruit Slices
-            Milk 0.20lt
+            [list][*]Butter 200g
+            [*]Start Fruit Slices
+            [*]Milk 0.20lt[/list]
 
         [*]Add to a Cupcake
-            Cupcake Sauce Mixture
+            [list][*]Cupcake Sauce Mixture[/list]
 
         [*]Bake in Oven Then Cool In Fridge
-    [*]Transfer to Plate
-        Cupcake x1
+    [/olist]
+    [list]
+    Transfer to Plate
+        [*]Cupcake x1[/list]
 
-        [*]Serve  Cool
+    Serve  Cool
