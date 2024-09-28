@@ -9,21 +9,22 @@ Ingredients:
     [*]Parsley x1
     [/list]
 Steps:
-    Slice
+    [olist]
+    [*]Slice
         Ribeye x1(Gives Two Ribeye Slices)
         Tomato x1(Gives Tomato Slices)
 
-    Add to a Ribeye Slice
+    [*]Add to a Ribeye Slice
         Salt 3g
         Black Pepper 3g
 
-    Grill
+    [*]Grill
         Ribeye Slice x1(Each Side)
         Tomato x1
 
-    Transfer to Plate
+    [*]Transfer to Plate
         Ribeye x1
         Tomato Slices x1
         Parsley Piece x2
 
-    Serve Hot
+        [*]Serve Hot

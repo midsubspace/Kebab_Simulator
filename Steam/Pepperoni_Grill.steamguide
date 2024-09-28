@@ -9,7 +9,8 @@ Ingredients:
     [*]Onion x1
     [/list]
 Steps:
-    Slice
+    [olist]
+    [*]Slice
         Pepperoni x1
         Potato x1
         Onion x1
@@ -18,14 +19,14 @@ Steps:
         Salt 3g
         Black Pepper 3g
 
-    Grill
+    [*]Grill
         Potato Slices x1
         Onion Slices x1
         Pepperoni Slice x2(Each Side)
 
-    Transfer to Plate
+    [*]Transfer to Plate
         Pepperoni Slice x2
         Potato Slices x1
         Onion Slices x1
 
-    Serve Hot
+        [*]Serve Hot

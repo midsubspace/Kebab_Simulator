@@ -9,27 +9,28 @@ Ingredients:
     [*]Mayonnaise Pack x1
     [/list]
 Steps:
+    [olist]
     DONER:
-        Slice
+        [*]Slice
             Ribeye x1
 
-        Attach to a Doner Machine and turn on the Machine
+        [*]Attach to a Doner Machine and turn on the Machine
 
         Take a Doner Knife and shave off doner slices
             Donner Slice[x5]
     FRENCH FRIES:
-            Slice
+            [*]Slice
                 Potato x1(Gives Potato Slices)
                 Potato Slices x1(Gives French Fries)
-            Add to a Deep Fryer
+            [*]Add to a Deep Fryer
                 Sunflower Oil 0.15 lt
 
-            Fry Using Deep Fryer
+            [*]Fry Using Deep Fryer
                 French Fries x1
-    Transfer to Plate
+    [*]Transfer to Plate
         Donner Slices x5
         French Fries x1
         Mayonnaise x1
         Ketchup x1
 
-    Serve Hot
+        [*]Serve Hot

@@ -9,20 +9,21 @@ Ingredients:
     [*]Onion x2
     [/list]
 Steps:
-    Slice
+    [olist]
+    [*]Slice
         Onion x2
         Garlic x1
 
-    Add to a Cookpot
+    [*]Add to a Cookpot
         Water 1.20lt
         Meat Broth 0.15lt
         Onion Slices x2
         Butter 200g
         Parsley Piece x2
 
-    Boil
+    [*]Boil
 
-    Transfer to Soup Plate
+    [*]Transfer to Soup Plate
         Mixture 0.20 lt
 
-    Serve Hot
+        [*]Serve Hot

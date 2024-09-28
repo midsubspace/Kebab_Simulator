@@ -12,12 +12,13 @@ Ingredients:
     [*]Green Pepper x1
     [/list]
 Steps:
-    Slice
+    [olist]
+    [*]Slice
         Beet x2
         Onion
         Green Pepper
 
-    Add to Cookpot
+    [*]Add to Cookpot
         Water 1.20 lt
         Tomato Paste 200 g
         Meat Broth 0.15 lt
@@ -27,9 +28,9 @@ Steps:
         Onion Slices
         Parsley Piece
 
-    Boil
+    [*]Boil
 
-    Transfer to Soup Plate
+    [*]Transfer to Soup Plate
         Mixture 0.20 lt
 
-    Serve Hot
+        [*]Serve Hot

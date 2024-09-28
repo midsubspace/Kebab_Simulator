@@ -9,21 +9,22 @@ Ingredients:
     [*]Carrot x1
     [/list]
 Steps:
-    Slice
+    [olist]
+    [*]Slice
         Cucumber x1
         Carrot x1
-        Attach to Skewer
+        [*]Attach to Skewer
         Tofu x4
         Cucumber Slice x4
 
-    Grill
+    [*]Grill
         Tofu Kebab (Each Side)
         Green Pepper x1
 
-    Transfer to Plate
-        Detach Tofu Kebab from Skewer
+    [*]Transfer to Plate
+        [*]Detach Tofu Kebab from Skewer
         Green Pepper x1
         Carrot Slices x1
         Parsley Piece x2
 
-    Serve Hot
+        [*]Serve Hot

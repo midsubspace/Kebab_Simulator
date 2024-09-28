@@ -9,19 +9,20 @@ Ingredients:
     [*]Parsley x1
     [/list]
 Steps:
-    Slice
+    [olist]
+    [*]Slice
         Tomato x2
 
-    Add to a Cookpot
+    [*]Add to a Cookpot
         Water 1.20 lt
         Milk 0.20lt
         Tomato Slice x8
         Butter 200g
 
-    Boil
+    [*]Boil
 
-    Transfer to Soup Plate
+    [*]Transfer to Soup Plate
         Mixture 0.20 lt
         Parsley Piece
 
-    Served Hot
+        [*]Served Hot

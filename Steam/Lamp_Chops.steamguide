@@ -11,7 +11,8 @@ Ingredients:
     [*]Garlic x1
     [/list]
 Steps:
-    Slice
+    [olist]
+    [*]Slice
         Lamp Chop x1
         Onion x1
         Garlic x1
@@ -21,16 +22,16 @@ Steps:
         Black Pepper 3g
         Thyme 3g
 
-    Grill
+    [*]Grill
         Lamp Chop Slice x1(Each Side)
         Green Pepper x1
         Onion Slices x1
         Garlic Slices x1
 
-    Transfer to Plate
+    [*]Transfer to Plate
         Lamp Chop Slices x2
         Onion Slices x1
         Garlic Slices x1
         Green Pepper x1
 
-    Serve Hot
+        [*]Serve Hot

@@ -11,7 +11,8 @@ Ingredients:
     [*]Parsley x1
     [/list]
 Steps:
-    Add to a Cookpot
+    [olist]
+    [*]Add to a Cookpot
         Water 1.20 lt
         Yogurt 300g
         Rice 300g
@@ -20,10 +21,10 @@ Steps:
         Mine 3g
         Salt 3g
 
-    Boil
+    [*]Boil
 
-    Transfer to Bowl
+    [*]Transfer to Bowl
         Mixture 0.20 lt
         Parsley Piece
 
-    Serve Hot
+        [*]Serve Hot
