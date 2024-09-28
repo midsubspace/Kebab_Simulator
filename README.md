@@ -1,5 +1,7 @@
 Kebab Chefs! - Unofficial Recipe Repository
 
+Steam Guide Version(Being Worked on): https://steamcommunity.com/sharedfiles/filedetails/?id=3214202473 
+
 Store Page: https://store.steampowered.com/app/1001270/Kebab_Chefs__Restaurant_Simulator/
 
 Welcome to the unofficial Recipe Repository for the game Kebab Chefs! This repository stores the various recipes used in the game for quick reference and sharing with the community.
