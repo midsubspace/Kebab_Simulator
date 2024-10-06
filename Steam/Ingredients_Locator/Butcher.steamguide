@@ -1,13 +1,52 @@
 Engin Butcher Shop
 
-Chicken Breast 180
-Chicken Leg 60
-Chicken Wing 10
-Lamb Chop 700
-Lamb Head 800
-Liver 250
-Pepperoni 400
-Ribeye 200
-Sausage 75
-Tail Fat 45
-Whole Chicken 600
+[table]
+    [tr]
+        [th]Item Name[/th]
+        [th]Price[/th]
+    [/tr]
+    [tr]
+        [td]Chicken Breast[/td]
+        [td]180[/td]
+    [/tr]
+    [tr]
+        [td]Chicken Leg[/td]
+        [td]60[/td]
+    [/tr]
+    [tr]
+        [td]Chicken Wing[/td]
+        [td]10[/td]
+    [/tr]
+    [tr]
+        [td]Lamb Chop[/td]
+        [td]700[/td]
+    [/tr]
+    [tr]
+        [td]Lamb Head[/td]
+        [td]800[/td]
+    [/tr]
+    [tr]
+        [td]Liver[/td]
+        [td]250[/td]
+    [/tr]
+    [tr]
+        [td]Pepperoni[/td]
+        [td]400[/td]
+    [/tr]
+    [tr]
+        [td]Ribeye[/td]
+        [td]200[/td]
+    [/tr]
+    [tr]
+        [td]Sausage[/td]
+        [td]75[/td]
+    [/tr]
+    [tr]
+        [td]Tail Fat[/td]
+        [td]45[/td]
+    [/tr]
+    [tr]
+        [td]Whole Chicken[/td]
+        [td]600[/td]
+    [/tr]
+[/table]
