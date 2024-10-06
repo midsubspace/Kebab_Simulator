@@ -1,19 +1,76 @@
 Korkmaz Greengrocer
 
-Basil 210
-Beet 7
-Carrot 3
-Cucumber 3
-Eggplant 4
-Garlic 4
-Green Pepper 3
-Lemon 8
-Mushroom 10
-Onion 4
-Orange 8
-Parsley 6
-Pineapple 800
-Potato 2
-Red Pepper 5
-Strawberry 5
-Tomato 3
+[table]
+    [tr]
+        [th]Item Name[/th]
+        [th]Price[/th]
+    [/tr]
+    [tr]
+        [td]Basil[/td]
+        [td]210[/td]
+    [/tr]
+    [tr]
+        [td]Beet[/td]
+        [td]7[/td]
+    [/tr]
+    [tr]
+        [td]Carrot[/td]
+        [td]3[/td]
+    [/tr]
+    [tr]
+        [td]Cucumber[/td]
+        [td]3[/td]
+    [/tr]
+    [tr]
+        [td]Eggplant[/td]
+        [td]4[/td]
+    [/tr]
+    [tr]
+        [td]Garlic[/td]
+        [td]4[/td]
+    [/tr]
+    [tr]
+        [td]Green Pepper[/td]
+        [td]3[/td]
+    [/tr]
+    [tr]
+        [td]Lemon[/td]
+        [td]8[/td]
+    [/tr]
+    [tr]
+        [td]Mushroom[/td]
+        [td]10[/td]
+    [/tr]
+    [tr]
+        [td]Onion[/td]
+        [td]4[/td]
+    [/tr]
+    [tr]
+        [td]Orange[/td]
+        [td]8[/td]
+    [/tr]
+    [tr]
+        [td]Parsley[/td]
+        [td]6[/td]
+    [/tr]
+    [tr]
+        [td]Pineapple[/td]
+        [td]800[/td]
+    [/tr]
+    [tr]
+        [td]Potato[/td]
+        [td]2[/td]
+    [/tr]
+    [tr]
+        [td]Red Pepper[/td]
+        [td]5[/td]
+    [/tr]
+    [tr]
+        [td]Strawberry[/td]
+        [td]5[/td]
+    [/tr]
+    [tr]
+        [td]Tomato[/td]
+        [td]3[/td]
+    [/tr]
+[/table]

@@ -1,3 +1,3 @@
-7393667	b10ae2e766d0f046d0d4e8f614f9ccc3	Butcher.steamguide
+7393667	78ec0ce98ca34e1fa5d71743810c9a88	Butcher.steamguide
 7393668	68f3a7ae5e22705e775ede6a2e2f5c76	GreenGrocer.steamguide
 7393669	ec18a0addc829c29614e03d79023c85c	Market.steamguide

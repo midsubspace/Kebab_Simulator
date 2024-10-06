@@ -1,48 +1,192 @@
 Basoglu Market
 
-Baking Tray 100
-Black Pepper 50
-Bread Crumble Pack 60
-Butter Can 70
-Chicken Broth Can 50
-Chickpea Pack 150
-Chili Pepper 50
-Chocolate Pack 50
-Coal Bag 25
-Cookpot 200
-Cumin 50
-Decoration Pack 350
-Dessert Tray 100
-Doner Kinfe 200
-Egg Box 250
-Flour Pack 200
-Frying Pan 640
-Gelatin Powder Pack 150
-Hazelnut Pack 200
-Ketchup Pack 50
-Kinding Bag 10
-Knife 200
-Mayonnaise Pack 50
-Meat Broth Can 200
-Milk Bottle 50
-Mixing Bowl 150
-Mozzarella Pack 570
-Olive Can 320
-Pepperoni Pack 480
-Pistachios Pack 550
-Raspberry Jar 260
-Rice Pack 1000
-Rosemary 50
-Round Flat Plate 50
-Salt 50
-Skewer 100
-Springform Pan 100
-Sugar Pack 220
-Sumac 50
-Sunflower Oil Bottle 50
-Sweet Corn Can 120
-Thyme 50
-Tofu Pack 500
-Tomato Paste Can 120
-Yeast Pack 100
-Yogurt Can 100
+[table]
+    [tr]
+        [th]Item Name[/th]
+        [th]Price[/th]
+    [/tr]
+    [tr]
+        [td]Baking Tray[/td]
+        [td]100[/td]
+    [/tr]
+    [tr]
+        [td]Black Pepper[/td]
+        [td]50[/td]
+    [/tr]
+    [tr]
+        [td]Bread Crumble Pack[/td]
+        [td]60[/td]
+    [/tr]
+    [tr]
+        [td]Butter Can[/td]
+        [td]70[/td]
+    [/tr]
+    [tr]
+        [td]Chicken Broth Can[/td]
+        [td]50[/td]
+    [/tr]
+    [tr]
+        [td]Chickpea Pack[/td]
+        [td]150[/td]
+    [/tr]
+    [tr]
+        [td]Chili Pepper[/td]
+        [td]50[/td]
+    [/tr]
+    [tr]
+        [td]Chocolate Pack[/td]
+        [td]50[/td]
+    [/tr]
+    [tr]
+        [td]Coal Bag[/td]
+        [td]25[/td]
+    [/tr]
+    [tr]
+        [td]Cookpot[/td]
+        [td]200[/td]
+    [/tr]
+    [tr]
+        [td]Cumin[/td]
+        [td]50[/td]
+    [/tr]
+    [tr]
+        [td]Decoration Pack[/td]
+        [td]350[/td]
+    [/tr]
+    [tr]
+        [td]Dessert Tray[/td]
+        [td]100[/td]
+    [/tr]
+    [tr]
+        [td]Doner Knife[/td]
+        [td]200[/td]
+    [/tr]
+    [tr]
+        [td]Egg Box[/td]
+        [td]250[/td]
+    [/tr]
+    [tr]
+        [td]Flour Pack[/td]
+        [td]200[/td]
+    [/tr]
+    [tr]
+        [td]Frying Pan[/td]
+        [td]640[/td]
+    [/tr]
+    [tr]
+        [td]Gelatin Powder Pack[/td]
+        [td]150[/td]
+    [/tr]
+    [tr]
+        [td]Hazelnut Pack[/td]
+        [td]200[/td]
+    [/tr]
+    [tr]
+        [td]Ketchup Pack[/td]
+        [td]50[/td]
+    [/tr]
+    [tr]
+        [td]Kindling Bag[/td]
+        [td]10[/td]
+    [/tr]
+    [tr]
+        [td]Knife[/td]
+        [td]200[/td]
+    [/tr]
+    [tr]
+        [td]Mayonnaise Pack[/td]
+        [td]50[/td]
+    [/tr]
+    [tr]
+        [td]Meat Broth Can[/td]
+        [td]200[/td]
+    [/tr]
+    [tr]
+        [td]Milk Bottle[/td]
+        [td]50[/td]
+    [/tr]
+    [tr]
+        [td]Mixing Bowl[/td]
+        [td]150[/td]
+    [/tr]
+    [tr]
+        [td]Mozzarella Pack[/td]
+        [td]570[/td]
+    [/tr]
+    [tr]
+        [td]Olive Can[/td]
+        [td]320[/td]
+    [/tr]
+    [tr]
+        [td]Pepperoni Pack[/td]
+        [td]480[/td]
+    [/tr]
+    [tr]
+        [td]Pistachios Pack[/td]
+        [td]550[/td]
+    [/tr]
+    [tr]
+        [td]Raspberry Jar[/td]
+        [td]260[/td]
+    [/tr]
+    [tr]
+        [td]Rice Pack[/td]
+        [td]1000[/td]
+    [/tr]
+    [tr]
+        [td]Rosemary[/td]
+        [td]50[/td]
+    [/tr]
+    [tr]
+        [td]Round Flat Plate[/td]
+        [td]50[/td]
+    [/tr]
+    [tr]
+        [td]Salt[/td]
+        [td]50[/td]
+    [/tr]
+    [tr]
+        [td]Skewer[/td]
+        [td]100[/td]
+    [/tr]
+    [tr]
+        [td]Springform Pan[/td]
+        [td]100[/td]
+    [/tr]
+    [tr]
+        [td]Sugar Pack[/td]
+        [td]220[/td]
+    [/tr]
+    [tr]
+        [td]Sumac[/td]
+        [td]50[/td]
+    [/tr]
+    [tr]
+        [td]Sunflower Oil Bottle[/td]
+        [td]50[/td]
+    [/tr]
+    [tr]
+        [td]Sweet Corn Can[/td]
+        [td]120[/td]
+    [/tr]
+    [tr]
+        [td]Thyme[/td]
+        [td]50[/td]
+    [/tr]
+    [tr]
+        [td]Tofu Pack[/td]
+        [td]500[/td]
+    [/tr]
+    [tr]
+        [td]Tomato Paste Can[/td]
+        [td]120[/td]
+    [/tr]
+    [tr]
+        [td]Yeast Pack[/td]
+        [td]100[/td]
+    [/tr]
+    [tr]
+        [td]Yogurt Can[/td]
+        [td]100[/td]
+    [/tr]
+[/table]
