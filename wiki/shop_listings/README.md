@@ -1,0 +1,1 @@
+This is a listing of all items in each shop and their base price without discounts

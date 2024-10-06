@@ -1,0 +1,17 @@
+Basil 210
+Beet 7
+Carrot 3
+Cucumber 3
+Eggplant 4
+Garlic 4
+Green Pepper 3
+Lemon 8
+Mushroom 10
+Onion 4
+Orange 8
+Parsley 6
+Pineapple 800
+Potato 2
+Red Pepper 5
+Strawberry 5
+Tomato 3
