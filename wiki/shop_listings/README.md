@@ -1,1 +1,1 @@
-This is a listing of all items in each shop and their base price without discounts
+This is a listing of where to get the Ingredients and their base prices without discounts
